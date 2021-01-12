@@ -52,5 +52,5 @@ export const RANDOM_DURATION = 60;
 export const RANDOM_MAX_SIZE = 10;
 // 屏幕一行显示多少人员
 export const MAX_COL_SIZE = 5;
-export const NO_EMP_ID_KEY = '法务';
+export const NO_EMP_ID_KEY = '---';
 export const CSV_NAME = '中奖名单.csv';
